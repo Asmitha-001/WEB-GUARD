@@ -1,4 +1,4 @@
-**WebGuard - Meachine Learning Extention For Spam Prevention**
+**WebGuard - Machine Learning Extention For Spam Prevention**
 
 This project is a Chrome extension designed to provide real-time, adaptive spam detection using an ensemble of machine learning models. As spammers continuously evolve their tactics, there is a growing need for effective tools to filter out unwanted or malicious content across platforms. This extension addresses key challenges in spam detection, focusing on accuracy, adaptability, and user accessibility.
 
